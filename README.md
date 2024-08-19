@@ -1,5 +1,13 @@
 <h1>Welcome to Austral Forge Games</h1>
 
+<a href="https://instagram.com/australforgegames" target="_blank"><img src="https://img.shields.io/badge/Instagram-Profile-pink" alt="Instagram Profile" /></a>
+<a href="https://www.youtube.com/@AustralForgeGames" target="_blank"><img src="https://img.shields.io/badge/YouTube-Channel-red" alt="YouTube Channel" /></a>
+<a href="https://x.com/australforge" target="_blank"><img src="https://img.shields.io/twitter/follow/AustralForge?style=social" alt="Follow on X" /></a>
+<a href="https://tiktok.com/@australforgegames" target="_blank"><img src="https://img.shields.io/badge/TikTok-Profile-black" alt="TikTok Profile" /></a>
+<a href="https://discord.gg/CA72byRBQq" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-blueviolet" alt="Join our Discord" /></a>
+<a href="https://www.linkedin.com/company/austral-forge-games" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Profile" /></a>
+<a href="https://www.twitch.tv/australforgegames" target="_blank"><img src="https://img.shields.io/badge/Twitch-Profile-purple" alt="Twitch Profile" /></a>
+
 <h3>Innovating the Future of Mobile Gaming from the Ends of the Earth</h3>
 
 <p>
